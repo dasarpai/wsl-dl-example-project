@@ -3,3 +3,4 @@
 # for this I need to 
 - start visual code from windows. 
 - ctrl + shift + p => Remote-WSL: New Window
+
